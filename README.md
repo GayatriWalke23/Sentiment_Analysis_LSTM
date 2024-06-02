@@ -1,5 +1,7 @@
-# Sentiment_Analysis_LSTM
-This repository contains the implementation of Long Short-Term Memory (LSTM) networks for sentiment analysis. The project focuses on classifying movie reviews as positive or negative using the Twitter Airline Dataset.
+# Sentiment Analysis using LSTM
+This project focuses on analyzing customer sentiments expressed in tweets about Virgin America airline. The dataset, sourced from Kaggle, contains 14,640 entries and 15 variables, including tweet content, sentiment expressed, and various user and tweet attributes. We implement and compare two models: a basic LSTM and an improved bidirectional LSTM, to determine their effectiveness in sentiment analysis.
+
+
 ### LSTM Architectures
 ## LSTM Architecture
 - Input: Sequences of tokens (word indices)
